@@ -1,0 +1,26 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio user-specific files
+.Rproj.user/
+
+# Raw data (confidential survey microdata)
+baseline.csv
+treatment.csv
+endline.csv
+
+# Generated output files (reproducible from data2.R)
+table1_balance.html
+table2_main_results.html
+table3_heterogeneity.html
+figure1_budget_comparison.png
+table1_balance.csv
+main_coefs.csv
+cost_effect_df.csv
+subgroup_effects.csv
+
+# OS files
+Thumbs.db
+.DS_Store
